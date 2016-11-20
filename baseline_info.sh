@@ -27,7 +27,7 @@ INPUT_PORT=3032
 #harpc-admin服务端口
 HARPC_PORT=8001
 #本地地址
-LOCALADDR=`172.24.5.95`
+LOCALADDR=172.24.5.95
 PYTHON=/opt/Python-2.7.12/bin
 #=====================#
 TAR=/bin/tar
