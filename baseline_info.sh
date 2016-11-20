@@ -3,7 +3,7 @@
 #要安装服务器地址
 IPADDR="172.24.5.95"
 #安装路径
-INSTALL_PATH=.
+INSTALL_PATH=/root/
 #zk地址
 ZK_ADDR=172.24.5.95:2181
 #mysql地址
